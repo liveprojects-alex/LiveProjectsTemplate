@@ -68,4 +68,4 @@ Link to your Trello boards here:
 * Tasks
 * Plan
 
-stonks egg pizza
+[example wireframe](https://liveprojects-alex.github.io/LiveProjectsTemplate/#/page/start)
